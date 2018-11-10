@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751483356336",
+    "firebase_url": "https://washbros-8f2aa.firebaseio.com",
+    "project_id": "washbros-8f2aa",
+    "storage_bucket": "washbros-8f2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751483356336:android:11c19decdb3550ed",
+        "android_client_info": {
+          "package_name": "com.android.washbros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751483356336-8f8e2ntjrv3fukrf5oduedci704arpf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.washbros",
+            "certificate_hash": "aba57643983a9f0f6666002b9104fabd459c3fb1"
+          }
+        },
+        {
+          "client_id": "751483356336-4ptl0c48hlam9pq5vg4h3r6ol54613h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Z10oOVY2l-rh5_xVNtNN65NxMDObUJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751483356336-4ptl0c48hlam9pq5vg4h3r6ol54613h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
